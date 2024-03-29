@@ -3,7 +3,9 @@ title: List
 ---
 Directory?
 <ul>
-<li><a href="https://garden.nattawatt.com">https://garden.nattawatt.com</a> : This site, the name can be change once I’m satisfied with this current setup. 
-<li><a href="https://github.com/RealNattawattHongthong">https://github.com/RealNattawattHongthong</a> : All my open-source projects lives (and dies) here.</li>
+<li><a href="https://garden.nattawatt.com">https://garden.nattawatt.com</a> : This site</li>
+<li><a href="https://nattawatt.com">https://nattawatt.com</a> : Main Webpage</li>
+<li><a href="https://nattawatt.com">https://tree.nattawatt.com</a> : Linktree</li>
 
-</ul>  </div> 
+<li><a href="https://github.com/RealNattawattHongthong">https://github.com/RealNattawattHongthong</a> : All my open-source projects lives (and dies) here.</li>
+<li><a href="https://instagram.com/nattawatthongthong">https://instagram.com/nattawatthongthong</a> : Instagram</li>
