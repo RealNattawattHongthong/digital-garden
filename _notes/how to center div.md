@@ -17,3 +17,4 @@ after :
   </div>
 </div>
 ```
+The "every day" part is important, because [[consistency]] is key to most things worth doing.
