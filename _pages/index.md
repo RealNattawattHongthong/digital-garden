@@ -8,7 +8,7 @@ permalink: /
 # Welcome To Nattawatt Digital Garden! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  <!-- Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration. -->
+ Hi! I'm Nattawatt, I'm passionate about learning in public, building in the open, and sharing what I know with others.
 </p>
 
 This digital garden is a place for me to cultivate my thoughts, ideas, and projects. It's a work in progress, and I'm always adding to it.
