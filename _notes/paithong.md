@@ -90,3 +90,5 @@ class Person:
 person = Person("Alice", 30)
 person.greet()
 ```
+
+[[knowledge]]
