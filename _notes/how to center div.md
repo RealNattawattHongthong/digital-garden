@@ -1,5 +1,5 @@
 ---
-title: 1 - How to center Div
+title: How to center Div
 ---
 Before :
 ```html

@@ -1,5 +1,5 @@
 ---
-title: 2 - Directory
+title:  Directory
 ---
 Directory?
 <ul>
