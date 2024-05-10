@@ -1,5 +1,5 @@
 ---
-title: 3 - YouTube Downloader using Python
+title: YouTube Downloader using Python
 ---
 ```py
 from pytube import YouTube

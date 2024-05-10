@@ -1,5 +1,5 @@
 ---
-title: 5 - Paithong for Beginner (Python For Beginner)
+title: Paithong for Beginner (Python For Beginner)
 ---
 # This is a simple Python program
 # It prints "Hello, World!" to the console
